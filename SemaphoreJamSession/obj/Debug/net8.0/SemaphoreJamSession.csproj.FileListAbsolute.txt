@@ -1,0 +1,14 @@
+C:\Users\njabu\source\repos\SemaphoreJamSession\bin\Debug\net8.0\SemaphoreJamSession.exe
+C:\Users\njabu\source\repos\SemaphoreJamSession\bin\Debug\net8.0\SemaphoreJamSession.deps.json
+C:\Users\njabu\source\repos\SemaphoreJamSession\bin\Debug\net8.0\SemaphoreJamSession.runtimeconfig.json
+C:\Users\njabu\source\repos\SemaphoreJamSession\bin\Debug\net8.0\SemaphoreJamSession.dll
+C:\Users\njabu\source\repos\SemaphoreJamSession\bin\Debug\net8.0\SemaphoreJamSession.pdb
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.AssemblyInfoInputs.cache
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.AssemblyInfo.cs
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.csproj.CoreCompileInputs.cache
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.dll
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\refint\SemaphoreJamSession.dll
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.pdb
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\SemaphoreJamSession.genruntimeconfig.cache
+C:\Users\njabu\source\repos\SemaphoreJamSession\obj\Debug\net8.0\ref\SemaphoreJamSession.dll
